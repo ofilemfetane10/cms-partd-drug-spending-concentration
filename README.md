@@ -81,6 +81,12 @@ The findings are descriptive and intended to inform policy and market-structure 
 
 ---
 
+## Disclaimer
+
+This analysis is based on a ranked extract retrieved via the CMS Open Data API. While it does not constitute a full census of all records, the approach is sufficient for identifying dominant patterns, structural concentration, and distributional dynamics within the dataset.
+
+---
+
 ## Related Work
 
 This repository is part of a broader research series examining structural power and concentration in U.S. healthcare, including:
@@ -102,5 +108,5 @@ The full analysis is contained in a single Jupyter notebook and can be reproduce
 
 ## Author
 
-Ofile Seneo Mfetane  
-Business Intelligence & Data Analytics  
+**Ofile Seneo Mfetane**  
+Business Intelligence & Data Analytics
